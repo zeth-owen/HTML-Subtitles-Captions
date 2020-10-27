@@ -1,0 +1,42 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav {
+    background-color: lightseagreen;
+    width: 100%;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: darkorange;
+}
+
+main {
+    margin: 0 20%;
+}
+
+main p {
+    font-size: 1.2em;
+}
+
+main h2 {
+    color: lightseagreen;
+}
