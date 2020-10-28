@@ -11,22 +11,8 @@ nav {
     padding: 10px;
 }
 
-nav ul {
-    list-style-type: none;
-}
-
-nav li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav a {
-    font-size: 1.5em;
-    text-decoration: none;
-}
-
-nav a:hover {
-    color: darkorange;
+nav h2 {
+    color: white;
 }
 
 main {
